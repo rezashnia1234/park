@@ -1,0 +1,154 @@
+﻿<krpano version="1.0.8">
+    <!-- activated hotpot -->
+    <plugin name="activespot" url="skin/mappointactive.png" keep="true" align="center" edge="center" visible="false" zorder="1011" />
+
+    <!-- radar plugin, set heading with "plugin[radar].heading" -->
+    <plugin name="radar"
+	        url="%SWFPATH%/plugins/radar.swf"
+	        alturl="%SWFPATH%/plugins/radar.js"
+	        zorder="1006"
+	        keep="true"
+	        heading="0"
+	        parent="map-view"
+
+	        align="lefttop"
+	        edge="center"
+	        x="0" y="0"
+	        linecolor="0"
+	        fillcolor="0xFF0000"
+	        scale="0.6"
+	        visible="false"
+	        editmode="true"
+	        />
+
+
+
+
+
+	<action name="activatespot">
+		set(plugin[activespot].parent, plugin[%1]);
+		set(plugin[activespot].visible, true);
+		
+		copy(plugin[radar].x, plugin[%1].x);
+		copy(plugin[radar].y, plugin[%1].y);
+		
+		set(plugin[radar].visible, true);
+		set(plugin[radar].alpha,1);
+		set(plugin[radar].heading, %2);
+
+	</action>
+
+
+	<!-- load and update map actions -->
+	<action name="update_map_spot">
+		activatespot(%1,%2);
+		loadscene(%1, null, MERGE, BLEND(1));
+	</action>
+	<action name="activatespotRadar">
+		activatespot(%1);
+	</action>
+	
+
+    <plugin name="scene_raad1" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="10"
+    	y="10"
+		onhover="showtext(scene_raad1);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad2" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="50"
+    	y="50"
+		onhover="showtext(scene_raad2);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad3" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="90"
+    	y="90"
+		onhover="showtext(scene_raad3);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad4" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad4);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad5" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad5);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad6" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad6);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad7" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad7);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad8" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad8);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad9" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad9);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad10" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad10);"
+    	onclick="update_map_spot(get(name));"
+    	/>		
+    <plugin name="scene_raad11" url="skin/mappoint.png" keep="true" parent="map-view" align="lefttop" edge="center"  zorder="1011"
+    	x="162"
+    	y="100"
+		onhover="showtext(scene_raad11);"
+    	onclick="update_map_spot(get(name));"
+    	/>				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+</krpano>

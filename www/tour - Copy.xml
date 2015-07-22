@@ -78,7 +78,7 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-149.491" atv="-1.716" linkedscene="scene_go01_02_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-151.935" atv="8.339" linkedscene="scene_go01_02_panorama" />
 
 	</scene>
 
@@ -112,8 +112,8 @@
 
 		<!-- place your scene hotspots here -->
 		
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="79.424" atv="6.686" linkedscene="scene_go01_01_panorama" />
-		<hotspot name="spot3" style="skin_hotspotstyle" ath="-94.165" atv="-0.477" linkedscene="scene_go01_04_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="76.055" atv="22.216" linkedscene="scene_go01_01_panorama" />
+		<hotspot name="spot3" style="skin_hotspotstyle" ath="-95.478" atv="8.615" linkedscene="scene_go01_04_panorama" />
 		
 
 	</scene>
@@ -180,8 +180,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="78.747" atv="5.592" linkedscene="scene_go01_02_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="-94.877" atv="-1.125" linkedscene="scene_go01_08_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="77.708" atv="22.571" linkedscene="scene_go01_02_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="-96.320" atv="9.503" linkedscene="scene_go01_08_panorama" />
 		
 
 	</scene>
@@ -247,8 +247,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="169.731" atv="2.752" linkedscene="scene_go01_04_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="-2.120" atv="2.786" linkedscene="scene_go01_09_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="168.793" atv="14.149" linkedscene="scene_go01_04_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="-1.830" atv="12.740" linkedscene="scene_go01_09_panorama" />
 
 	</scene>
 
@@ -281,8 +281,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="169.418" atv="-2.881" linkedscene="scene_go01_08_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="5.746" atv="5.608" linkedscene="scene_go01_10_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="170.091" atv="16.759" linkedscene="scene_go01_08_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="9.671" atv="12.949" linkedscene="scene_go01_10_panorama" />
 
 	</scene>
 
@@ -315,8 +315,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="163.896" atv="1.701" linkedscene="scene_go01_09_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="25.750" atv="4.312" linkedscene="scene_go01_11_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="168.291" atv="19.864" linkedscene="scene_go01_09_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="1.887" atv="22.471" linkedscene="scene_go01_11_panorama" />
 
 	</scene>
 
@@ -349,8 +349,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="161.321" atv="-1.355" linkedscene="scene_go01_10_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="47.883" atv="-0.273" linkedscene="scene_go01_12_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="162.698" atv="19.955" linkedscene="scene_go01_10_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="36.264" atv="18.116" linkedscene="scene_go01_12_panorama" />
 
 	</scene>
 
@@ -383,8 +383,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="132.244" atv="0.261" linkedscene="scene_go01_11_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="-0.950" atv="1.261" linkedscene="scene_go01_13_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="155.956" atv="26.059" linkedscene="scene_go01_11_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="-3.580" atv="16.165" linkedscene="scene_go01_13_panorama" />
 
 	</scene>
 
@@ -417,8 +417,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-7.019" atv="0.347" linkedscene="scene_go01_14_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="169.596" atv="-4.103" linkedscene="scene_go01_12_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-8.957" atv="22.199" linkedscene="scene_go01_14_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="169.264" atv="18.638" linkedscene="scene_go01_12_panorama" />
 
 	</scene>
 
@@ -451,8 +451,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-3.074" atv="1.961" linkedscene="scene_go01_15_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="176.862" atv="-5.664" linkedscene="scene_go01_13_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-4.087" atv="16.822" linkedscene="scene_go01_15_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="176.724" atv="19.488" linkedscene="scene_go01_13_panorama" />
 
 	</scene>
 
@@ -485,8 +485,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-2.479" atv="2.165" linkedscene="scene_go01_16_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="176.374" atv="-2.461" linkedscene="scene_go01_14_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-3.227" atv="24.513" linkedscene="scene_go01_16_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="177.265" atv="18.638" linkedscene="scene_go01_14_panorama" />
 
 	</scene>
 
@@ -519,8 +519,8 @@
 		</image>
 
 		<!-- place your scene hotspots here -->
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-2.458" atv="0.587" linkedscene="scene_go01_17_panorama" />
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="173.482" atv="-2.342" linkedscene="scene_go01_15_panorama" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-2.748" atv="20.429" linkedscene="scene_go01_17_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="173.253" atv="19.478" linkedscene="scene_go01_15_panorama" />
 
 	</scene>
 
@@ -554,8 +554,8 @@
 
 		<!-- place your scene hotspots here -->
 		
-		<hotspot name="spot2" style="skin_hotspotstyle" ath="175.811" atv="-1.435" linkedscene="scene_go01_16_panorama" />
-		<hotspot name="spot3" style="skin_hotspotstyle" ath="-3.335" atv="-1.349" linkedscene="scene_go01_20_panorama" />
+		<hotspot name="spot2" style="skin_hotspotstyle" ath="175.111" atv="13.885" linkedscene="scene_go01_16_panorama" />
+		<hotspot name="spot3" style="skin_hotspotstyle" ath="-0.179" atv="31.664" linkedscene="scene_go01_20_panorama" />
 		
 
 	</scene>

@@ -549,7 +549,7 @@
 			//set(plugin[tolaTime].html,get(temp));
 	</action>
 	
-	<events	name="zoom_events" keep="true"	onviewchanged="refresh_zoom_bar();" onnewpano="set(plugin[TitleName].html, get(scene[get(xml.scene)].title) );"		/>
+	<events	name="zoom_events" keep="true"	onviewchanged="refresh_zoom_bar();" onnewpano2="set(plugin[TitleName].html, get(scene[get(xml.scene)].title) );"		/>
 <!--
 /////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 /////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
